@@ -1,5 +1,5 @@
-import React from 'react'
-import { Outlet } from 'react-router'
+import React from 'react';
+import { NavLink, Outlet } from 'react-router'; // Change this import
 
 function RootLayouts() {
   return (
@@ -9,6 +9,7 @@ function RootLayouts() {
             <h1>Find Jobs ?</h1>
             <NavLink to="/">Home</NavLink>
             <NavLink to="about">About</NavLink>
+            <NavLink to="help">Help</NavLink>
         </nav>
       </header>
       <main>
@@ -18,4 +19,4 @@ function RootLayouts() {
   )
 }
 
-export default RootLayouts
+export default RootLayouts;
