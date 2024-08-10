@@ -1,5 +1,5 @@
 import React from 'react';
-import { NavLink, Outlet } from 'react-router'; // Change this import
+import { NavLink, Outlet } from 'react-router-dom'; // Change this import
 
 function RootLayouts() {
   return (
