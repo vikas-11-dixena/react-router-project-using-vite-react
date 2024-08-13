@@ -101,7 +101,7 @@ form label span {
 }
 
 /* careers list */
-.careers > a {
+/* .careers > a {
   display: block;
   background: rgba(0,0,0,0.2);
   padding: 20px;
@@ -118,18 +118,18 @@ form label span {
 .careers > a p:last-child {
  font-size: 0.8em;
  color: #bbb;
-}
+} */
 
 /* careers details */
-.career-details {
+/* .career-details {
   background: rgba(0,0,0,0.2);
   padding: 20px;
   border-radius: 4px;
   margin: 20px 0;
-}
+} */
 
 /* breadcrumbs */
-.breadcrumbs {
+/* .breadcrumbs {
   max-width: 1200px;
   margin: 20px auto;
 }
@@ -146,4 +146,4 @@ form label span {
 }
 .breadcrumbs .crumb a {
   color: #ddd;
-}
+} */
